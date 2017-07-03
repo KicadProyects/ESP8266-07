@@ -1,4 +1,4 @@
-update=02/07/2017 04:16:32 p.m.
+update=2/7/2017 8:33:28 p. m.
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,6 +25,16 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -75,13 +85,14 @@ LibName43=C:/Program Files/KiCad/share/kicad/library/w_microcontrollers
 LibName44=C:/Program Files/KiCad/share/kicad/library/w_opto
 LibName45=C:/Program Files/KiCad/share/kicad/library/w_rtx
 LibName46=C:/Program Files/KiCad/share/kicad/library/w_vacuum
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName47=w_analog
+LibName48=w_connectors
+LibName49=w_device
+LibName50=w_logic
+LibName51=w_memory
+LibName52=w_microcontrollers
+LibName53=w_opto
+LibName54=w_relay
+LibName55=w_rtx
+LibName56=w_transistor
+LibName57=w_vacuum
